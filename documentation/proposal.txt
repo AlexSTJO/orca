@@ -31,6 +31,11 @@ Lambda or ECS: Run scripts in a controlled environment.
 DynamoDB or RDS: Store metadata like scripts, outputs, and schedules.
 
 
+
+Authentication:
+Utilize an IAM role and create a config file with permissions as well as a guide for users to connect
+Store hashed
+
 Questions
 
 How to have multiple files running?
